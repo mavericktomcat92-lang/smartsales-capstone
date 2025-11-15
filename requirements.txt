@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+# placeholder for ADK package name - replace with actual ADK package when integrating
+# google-ai-adk
