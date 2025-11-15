@@ -1,0 +1,6 @@
+id,company_name,contact_name,contact_email,website,lead_source,notes
+L1,AcmePay,Ali,ali@acmepay.com,acmepay.com,LinkedIn,"Interested in payments integration"
+L2,GreenStack,Sara,sara@greenstack.io,greenstack.io,Website,"Looking for analytics solutions"
+L3,FinOpt,Usman,usman@finopt.co,finopt.co,Referral,"Scale-up, Series A, 75 employees"
+L4,ShopRight,Ayesha,ayesha@shopright.pk,shopright.pk,Cold Email,"Small e-commerce, 12 employees"
+L5,DataBee,John,john@databee.ai,databee.ai,Event,"Might integrate ML stack"
